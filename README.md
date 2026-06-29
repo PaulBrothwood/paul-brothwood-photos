@@ -1,5 +1,7 @@
 # Paul Brothwood | Photo Library
 
+![Paul Brothwood](https://github.com/PaulBrothwood/paul-brothwood-photos/raw/main/sustainability-leadership/paul-brothwood-united-nations-sustainability-speech.JPEG)
+
 Welcome to my professional photo library.
 
 This repository contains photographs documenting my work, speaking engagements, sustainability projects, leadership activities and motorcycle adventures.
