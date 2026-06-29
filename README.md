@@ -10,29 +10,54 @@ Many of these images are used throughout my GitHub repositories, Blogger article
 
 ## Featured Collections
 
-### 🏍️ Honda Adventure Roads 2026
+## 🏍️ Honda Adventure Roads 2026
+
+📂 **Explore the complete project:**
+
+https://github.com/PaulBrothwood/paul-brothwood-honda-adventure-roads-2026
 
 Original photographs from Honda Adventure Roads 2026, including the Honda XL750 Transalp, the Pyrenees, Tosha Schareina, Kirian Mirabet and the international rider group.
 
-### 🌍 Sustainability Leadership
+---
 
-Photographs from environmental initiatives, sustainability events and Chartered Environmentalist activities.
+## 🌍 Sustainability Leadership
 
-### 🇺🇳 Speaking Engagements
+📂 **Browse photographs:**
 
-Images from conferences, public speaking events and international engagements, including the United Nations.
+https://github.com/PaulBrothwood/paul-brothwood-photos/tree/main/sustainability-leadership
 
-### ⚡ Operations Leadership
+Photographs from environmental initiatives, Chartered Environmentalist activities, environmental leadership and sustainability projects.
 
-Photographs highlighting operational leadership, infrastructure, utilities, health and safety, environmental management and business transformation.
+---
 
-### ❤️ Charity and Community
+## 🇺🇳 International Engagement
 
-Images supporting fundraising, community projects and charitable activities.
+📂 **Browse photographs:**
 
-### 🏍️ Suzuki Hayabusa
+https://github.com/PaulBrothwood/paul-brothwood-photos/tree/main/international-engagement
 
-Photographs documenting ownership of the Suzuki Hayabusa 25th Anniversary, touring across Europe and motorcycle events.
+Images from international speaking engagements, United Nations events, human rights advocacy and diplomatic meetings.
+
+---
+
+## 🏍️ Motorcycling
+
+📂 **Browse photographs:**
+
+https://github.com/PaulBrothwood/paul-brothwood-photos/tree/main/motorcycling
+
+Photographs documenting the Suzuki Hayabusa, Honda Adventure Roads, European touring and motorcycle events.
+
+---
+
+## 🌄 Travel and Culture
+
+📂 **Browse photographs:**
+
+https://github.com/PaulBrothwood/paul-brothwood-photos/tree/main/travel-culture
+
+Images from international travel, cultural experiences and destinations visited throughout my journeys.
+
 
 ## Repository Structure
 
