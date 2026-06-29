@@ -1,34 +1,60 @@
-# Paul Brothwood – Photo Collection
+# Paul Brothwood | Photo Library
 
-This repository contains selected photographs of **Paul Brothwood** to support public profiles and improve online visibility.
+Welcome to my professional photo library.
 
-## 📌 Categories
+This repository contains photographs documenting my work, speaking engagements, sustainability projects, leadership activities and motorcycle adventures.
 
-### Sustainability & Leadership
-- UN sustainability speech
-- SLA committee meeting
-- Allyship Day at National Grid
-- ISEP sustainability membership
+Many of these images are used throughout my GitHub repositories, Blogger articles and professional profiles.
 
-### International Engagement
-- Speaking at the UN on Western Sahara
-- UN Geneva – Kashmir conflict
-- Azerbaijan Parliament – conflict and environment
-- Somaliland – prisoner release
-- IEA book launch
+## Featured Collections
 
-### Motorcycling
-- Suzuki Hayabusa 25th Anniversary Edition by graffiti tunnel
-- Hayabusa in France by maison
-- Bike4Life charity ride
+### 🏍️ Honda Adventure Roads 2026
 
-### Travel & Culture
-- Sanctuary of Truth in Thailand
-- Vincent Kamp painting – *The Betrayal*
-- International speaking in Czech Republic
+Original photographs from Honda Adventure Roads 2026, including the Honda XL750 Transalp, the Pyrenees, Tosha Schareina, Kirian Mirabet and the international rider group.
 
-## 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/paul-brothwood)  
-- [Medium](https://medium.com/@paulbrothwood)  
-- [Instagram](https://instagram.com/paulbrothwood)  
-- [Threads](https://www.threads.net/@paulbrothwood)  
+### 🌍 Sustainability Leadership
+
+Photographs from environmental initiatives, sustainability events and Chartered Environmentalist activities.
+
+### 🇺🇳 Speaking Engagements
+
+Images from conferences, public speaking events and international engagements, including the United Nations.
+
+### ⚡ Operations Leadership
+
+Photographs highlighting operational leadership, infrastructure, utilities, health and safety, environmental management and business transformation.
+
+### ❤️ Charity and Community
+
+Images supporting fundraising, community projects and charitable activities.
+
+### 🏍️ Suzuki Hayabusa
+
+Photographs documenting ownership of the Suzuki Hayabusa 25th Anniversary, touring across Europe and motorcycle events.
+
+## Repository Structure
+
+* Honda Adventure Roads 2026
+* Sustainability Leadership
+* Speaking Engagements
+* Operations Leadership
+* Charity and Community
+* Suzuki Hayabusa
+
+## Related Projects
+
+### Professional Profile
+
+https://github.com/PaulBrothwood/PaulBrothwood-Profile
+
+### Articles and Publications
+
+https://github.com/PaulBrothwood/paul-brothwood-blogs
+
+### Honda Adventure Roads 2026
+
+https://github.com/PaulBrothwood/paul-brothwood-honda-adventure-roads-2026
+
+## About Paul Brothwood
+
+Paul Brothwood is a Chartered Environmentalist (CEnv), Operations Manager and sustainability leader with interests in environmental management, leadership, infrastructure, international speaking engagements and motorcycle travel.
